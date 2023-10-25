@@ -1,4 +1,6 @@
 https://stliubov.ru/
+
 Я создала сайт, который показывает мою индивидуальность. На сайте есть зашифрованные послания, мои любимые строчки стихов. Фон представляет собой атмосферную гифку из игры майнкрафт.
-<img width="921" alt="image" src="https://github.com/quartzfork/my_website/assets/109330165/0c9b0b66-bdde-4f69-8b52-d9c732ac6b1a">
+<img width="917" alt="image" src="https://github.com/quartzfork/my_website/assets/109330165/979b59ff-da6b-4d41-8f60-0e3e6114d973">
+
 
